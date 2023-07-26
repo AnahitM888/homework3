@@ -128,7 +128,7 @@ function CoffeeShop(name, menu) {
     };
   }
   
-  // Example usage:
+  // Example 
   const menu = [
     { name: "Coffee", type: "drink", price: 3 },
     { name: "Sandwich", type: "food", price: 5 },
